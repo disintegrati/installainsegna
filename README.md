@@ -49,7 +49,7 @@ ora devi settare la connessione locale. Puoi attaccare il raspy ad una LAN oppur
 Nella partizione rootfs apri un terminale ed esegui
 
 ```bash
-sudo nano /etc/wpa_supplicant/wpa_supplicant
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
 dentro devi scriverci:
