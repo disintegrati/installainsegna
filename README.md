@@ -1,2 +1,2 @@
-# installainsegna
-Qui ti descrivo come installare le nuove insegne
+# Installazione Insegna
+Ciao, questo script serve ad installare 
