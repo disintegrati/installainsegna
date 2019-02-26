@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Inizializzazione insegna.
 Qui ti descrivo come installare le nuove insegne
 
@@ -156,6 +155,6 @@ Il raspberry si riavvierà da solo. Se non funziona riavvialo tu.
 
 ### HAI FINITO BRAVO!
 
-##HARDWARE
+## HARDWARE
 
 Il pin di controllo del led è il 32. Tenendo il raspberry con la sd rivolta verso l'alta, il pin di controllo è il quintultimo sulla fila di destra.
